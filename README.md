@@ -8,7 +8,7 @@
 - :cake: I love to cook desserts
 - :book: I am constantly learning new things
 - :mountain_bicyclist: I regularly run and bike, see my activity in Strava https://www.strava.com/athletes/64019377
-- :email: You can contact me bezkorovainatetianav@gmail.com
+<!-- - :email: You can contact me bezkorovainatetianav@gmail.com -->
 
 ### My stack and tools
 
@@ -21,13 +21,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<!-- ### Connect with me:
+### Connect with me:
 
-[<img align="left" alt="Tetiana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/tetiana-btv/ -->
+[![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/tetiana-btv/) &nbsp;&nbsp;
+[![website](https://user-images.githubusercontent.com/25087769/87173861-0aa06200-c2df-11ea-9614-da65c9c73692.png)](https://portfolio-site-bezkorovaina-t.herokuapp.com/) &nbsp;&nbsp;
+[![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:bezkorovainatetianav@gmail.com)
