@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, everybody! 👋 My name is Tania, I am a junior FrontEnd developer.
 
 <!--
 **TatjanaBezkorovaina/TatjanaBezkorovaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
