@@ -1,4 +1,13 @@
-### Hi, everybody! 👋 My name is Tania, I am a junior FrontEnd developer.
+### Hi, everybody! 👋 My name is Tania.
+
+![](https://komarev.com/ghpvc/?username=TatjanaBezkorovaina)
+
+## I am a Junior FrontEnd developer
+
+- :muscle: I like to write code
+- :cake: I love to cook desserts
+- :mountain_bicyclist: I regularly run and bike
+- :book: I am constantly learning new things
 
 <!--
 **TatjanaBezkorovaina/TatjanaBezkorovaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
