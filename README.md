@@ -5,8 +5,8 @@
 ## 𝕀 𝕒𝕞 𝕒 𝕁𝕦𝕟𝕚𝕠𝕣 𝔽𝕣𝕠𝕟𝕥𝔼𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
 
 - :muscle: I like to write code
-- :cake: I love to cook desserts
 - :book: I am constantly learning new things
+- :cake: I love to cook desserts
 - :mountain_bicyclist: I regularly run and bike, see my activity in Strava https://www.strava.com/athletes/64019377
 <!-- - :email: You can contact me bezkorovainatetianav@gmail.com -->
 
