@@ -7,7 +7,6 @@
 - :muscle: I like to write code
 - :book: I am constantly learning new things
 - :fire: My passion - editing video in program Adobe Premiere Pro :film_strip:
-- :cake: I love to cook desserts
 - :mountain_bicyclist: I regularly run and bike, see my activity in Strava https://www.strava.com/athletes/64019377
 <!-- - :email: You can contact me bezkorovainatetianav@gmail.com -->
 
